@@ -1,2 +1,1 @@
-# git-exercise
-Rootlabs Interns git exercise 1
+Hi Interns
